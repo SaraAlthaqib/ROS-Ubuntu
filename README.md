@@ -12,5 +12,5 @@ the last program we will download it, is ROS2 in jetson nano
 we must connect with the jetson nano then download the ROS2
 we can download XUbuntu also
 #### link :
-[ROS2] (https://docs.ros.org/en/foxy/Installation.html) - ROS2 link
-#### [XUbuntu] (https://forums.developer.nvidia.com/t/xubuntu-20-04-focal-fossa-l4t-r32-3-1-custom-image-for-the-jetson-nano/121768) - XUbuntu jetson nano
+[ROS2](https://docs.ros.org/en/foxy/Installation.html) - ROS2 link
+#### [XUbuntu](https://forums.developer.nvidia.com/t/xubuntu-20-04-focal-fossa-l4t-r32-3-1-custom-image-for-the-jetson-nano/121768) - XUbuntu jetson nano
